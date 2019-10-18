@@ -1,0 +1,2 @@
+Sample file writing
+This is line 2

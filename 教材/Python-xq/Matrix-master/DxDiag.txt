@@ -1,0 +1,23 @@
+------------------
+System Information
+------------------
+Time of this report: 2/4/2018, 13:32:15
+       Machine name: USER-PC
+   Operating System: Windows 7 Ultimate 64-bit (6.1, Build 7601) Service Pack 1 (7601.win7sp1_ldr.170913-0600)
+           Language: Spanish (Regional Setting: Spanish)
+System Manufacturer: To Be Filled By O.E.M.
+       System Model: To Be Filled By O.E.M.
+               BIOS: Default System BIOS
+          Processor: Intel(R) Pentium(R) Dual  CPU  E2220  @ 2.40GHz (2 CPUs), ~2.4GHz
+             Memory: 8192MB RAM
+Available OS Memory: 7934MB RAM
+          Page File: 2822MB used, 13041MB available
+        Windows Dir: C:\Windows
+    DirectX Version: DirectX 11
+DX Setup Parameters: Not found
+   User DPI Setting: Using System DPI
+ System DPI Setting: 96 DPI (100 percent)
+    DWM DPI Scaling: Disabled
+     DxDiag Version: 6.01.7601.17514 32bit Unicode
+
+

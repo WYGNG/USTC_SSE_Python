@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1519536854 source:c:\users\user\documents\laura\proyectos c\mult_matrices\main.c
+	<stdio.h>
+	<time.h>
+
+1519538071 source:c:\users\user\documents\laura\universidad\programación\proyectos c\mult_matrices\main.c
+	<stdio.h>
+	<time.h>
+
+1520231588 source:c:\users\user\documents\laura\github\matrix\c\main.c
+	<stdio.h>
+	<time.h>
+
