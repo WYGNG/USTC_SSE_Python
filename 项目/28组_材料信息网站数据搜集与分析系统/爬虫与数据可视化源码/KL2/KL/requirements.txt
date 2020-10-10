@@ -1,0 +1,6 @@
+﻿# encoding:utf-8
+#需要安装的库
+
+requests
+time
+lxml

@@ -1,0 +1,4 @@
+1、运行前请将model文件夹中四个文件夹里的checkpoint文件打开，将其中的文件路径根据当前保存路径进行修改。
+2、运行create_poetry.py文件，系统即可运行。
+3、dispose_data.py为数据预处理文件
+4、train.py为模型训练文件，训练时可根据需要修改model_path和file_path以及process_poetry方法的第二个参数。

@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"project.CPP_day"}],"uuid":"a1f00838e5ef4e0e82a4e9b8499be1cf"}
