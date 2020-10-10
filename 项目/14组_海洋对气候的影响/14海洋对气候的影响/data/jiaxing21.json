@@ -1,0 +1,42 @@
+{
+  "coord": {
+    "lon": 120.75,
+    "lat": 30.75
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 292.36,
+    "pressure": 1016,
+    "humidity": 59,
+    "temp_min": 291.15,
+    "temp_max": 294.82
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 2,
+    "deg": 100
+  },
+  "clouds": {
+    "all": 62
+  },
+  "dt": 1573045208,
+  "sys": {
+    "type": 1,
+    "id": 9651,
+    "country": "CN",
+    "sunrise": 1572992116,
+    "sunset": 1573031155
+  },
+  "timezone": 28800,
+  "id": 1805953,
+  "name": "Jiaxing",
+  "cod": 200
+}

@@ -1,0 +1,41 @@
+{
+  "coord": {
+    "lon": 118.78,
+    "lat": 32.06
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 289.03,
+    "pressure": 1018,
+    "humidity": 72,
+    "temp_min": 288.15,
+    "temp_max": 289.82
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 1
+  },
+  "clouds": {
+    "all": 56
+  },
+  "dt": 1573052357,
+  "sys": {
+    "type": 1,
+    "id": 9660,
+    "country": "CN",
+    "sunrise": 1572992709,
+    "sunset": 1573031507
+  },
+  "timezone": 28800,
+  "id": 1799962,
+  "name": "Nanjing",
+  "cod": 200
+}

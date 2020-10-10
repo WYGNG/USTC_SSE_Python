@@ -1,0 +1,41 @@
+{
+  "coord": {
+    "lon": 118.78,
+    "lat": 32.06
+  },
+  "weather": [
+    {
+      "id": 701,
+      "main": "Mist",
+      "description": "mist",
+      "icon": "50n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 285.06,
+    "pressure": 1019,
+    "humidity": 93,
+    "temp_min": 284.15,
+    "temp_max": 285.93
+  },
+  "visibility": 5000,
+  "wind": {
+    "speed": 1
+  },
+  "clouds": {
+    "all": 29
+  },
+  "dt": 1572991086,
+  "sys": {
+    "type": 1,
+    "id": 9660,
+    "country": "CN",
+    "sunrise": 1572992709,
+    "sunset": 1573031507
+  },
+  "timezone": 28800,
+  "id": 1799962,
+  "name": "Nanjing",
+  "cod": 200
+}

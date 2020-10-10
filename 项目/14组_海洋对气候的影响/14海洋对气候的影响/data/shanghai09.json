@@ -1,0 +1,42 @@
+{
+  "coord": {
+    "lon": 121.46,
+    "lat": 31.22
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 290.56,
+    "pressure": 1019,
+    "humidity": 63,
+    "temp_min": 290.15,
+    "temp_max": 291.15
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 3,
+    "deg": 30
+  },
+  "clouds": {
+    "all": 0
+  },
+  "dt": 1573001703,
+  "sys": {
+    "type": 1,
+    "id": 9659,
+    "country": "CN",
+    "sunrise": 1572991988,
+    "sunset": 1573030942
+  },
+  "timezone": 28800,
+  "id": 1796236,
+  "name": "Shanghai",
+  "cod": 200
+}

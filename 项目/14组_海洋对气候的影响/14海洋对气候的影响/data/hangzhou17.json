@@ -1,0 +1,42 @@
+{
+  "coord": {
+    "lon": 120.16,
+    "lat": 30.29
+  },
+  "weather": [
+    {
+      "id": 802,
+      "main": "Clouds",
+      "description": "scattered clouds",
+      "icon": "03d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 292.07,
+    "pressure": 1015,
+    "humidity": 63,
+    "temp_min": 290.93,
+    "temp_max": 293.15
+  },
+  "visibility": 8000,
+  "wind": {
+    "speed": 4,
+    "deg": 100
+  },
+  "clouds": {
+    "all": 40
+  },
+  "dt": 1573030736,
+  "sys": {
+    "type": 1,
+    "id": 9651,
+    "country": "CN",
+    "sunrise": 1572992216,
+    "sunset": 1573031338
+  },
+  "timezone": 28800,
+  "id": 1808926,
+  "name": "Hangzhou",
+  "cod": 200
+}

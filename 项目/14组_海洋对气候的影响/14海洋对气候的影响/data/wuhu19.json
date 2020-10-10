@@ -1,0 +1,41 @@
+{
+  "coord": {
+    "lon": 118.56,
+    "lat": 31.15
+  },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04n"
+    }
+  ],
+  "base": "model",
+  "main": {
+    "temp": 289.21,
+    "pressure": 1016,
+    "humidity": 63,
+    "temp_min": 289.21,
+    "temp_max": 289.21,
+    "sea_level": 1016,
+    "grnd_level": 1014
+  },
+  "wind": {
+    "speed": 3.22,
+    "deg": 66
+  },
+  "clouds": {
+    "all": 90
+  },
+  "dt": 1573038013,
+  "sys": {
+    "country": "CN",
+    "sunrise": 1572992678,
+    "sunset": 1573031644
+  },
+  "timezone": 28800,
+  "id": 7069199,
+  "name": "Wuhu",
+  "cod": 200
+}

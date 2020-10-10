@@ -1,0 +1,15 @@
+version: '3'
+services:
+  wawa30:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/code
+      - logvolume01:/var/log
+    networks:
+      - frontend
+networks:
+  frontend:
+volumes:
+  logvolume01: {}

@@ -1,0 +1,42 @@
+{
+  "coord": {
+    "lon": 120.62,
+    "lat": 31.31
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 286.09,
+    "pressure": 1018,
+    "humidity": 81,
+    "temp_min": 283.71,
+    "temp_max": 288.71
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 2,
+    "deg": 340
+  },
+  "clouds": {
+    "all": 0
+  },
+  "dt": 1572991041,
+  "sys": {
+    "type": 1,
+    "id": 9659,
+    "country": "CN",
+    "sunrise": 1572992198,
+    "sunset": 1573031135
+  },
+  "timezone": 28800,
+  "id": 1886760,
+  "name": "Suzhou",
+  "cod": 200
+}

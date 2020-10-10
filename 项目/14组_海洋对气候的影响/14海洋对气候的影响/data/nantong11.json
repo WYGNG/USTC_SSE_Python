@@ -1,0 +1,42 @@
+{
+  "coord": {
+    "lon": 120.87,
+    "lat": 32.03
+  },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 295.02,
+    "pressure": 1015,
+    "humidity": 60,
+    "temp_min": 292.04,
+    "temp_max": 299.26
+  },
+  "wind": {
+    "speed": 1.79,
+    "deg": 118
+  },
+  "rain": {},
+  "clouds": {
+    "all": 100
+  },
+  "dt": 1573009211,
+  "sys": {
+    "type": 3,
+    "id": 2000942,
+    "country": "CN",
+    "sunrise": 1572992204,
+    "sunset": 1573031009
+  },
+  "timezone": 28800,
+  "id": 1799722,
+  "name": "Nantong",
+  "cod": 200
+}

@@ -1,0 +1,41 @@
+{
+  "coord": {
+    "lon": 119.97,
+    "lat": 31.78
+  },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 289.59,
+    "pressure": 1009,
+    "humidity": 69,
+    "temp_min": 289.26,
+    "temp_max": 290.37
+  },
+  "wind": {
+    "speed": 3.11,
+    "deg": 79
+  },
+  "clouds": {
+    "all": 97
+  },
+  "dt": 1573048810,
+  "sys": {
+    "type": 3,
+    "id": 2000146,
+    "country": "CN",
+    "sunrise": 1572992397,
+    "sunset": 1573031248
+  },
+  "timezone": 28800,
+  "id": 1815456,
+  "name": "Changzhou",
+  "cod": 200
+}

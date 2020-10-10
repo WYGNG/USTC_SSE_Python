@@ -1,0 +1,42 @@
+{
+  "coord": {
+    "lon": 119.91,
+    "lat": 32.49
+  },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 291.78,
+    "pressure": 1018,
+    "humidity": 56,
+    "temp_min": 290.37,
+    "temp_max": 293.71
+  },
+  "wind": {
+    "speed": 0.45,
+    "deg": 180,
+    "gust": 1.34
+  },
+  "clouds": {
+    "all": 100
+  },
+  "dt": 1573005608,
+  "sys": {
+    "type": 3,
+    "id": 2012512,
+    "country": "CN",
+    "sunrise": 1572992478,
+    "sunset": 1573031196
+  },
+  "timezone": 28800,
+  "id": 1793505,
+  "name": "Taizhou",
+  "cod": 200
+}

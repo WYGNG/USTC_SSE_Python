@@ -1,2 +1,11 @@
 
 *.pdf
+*.mp4
+*.pyc
+*.mov
+项目/6组-基于VGG19的图像风格迁移/组6-风格迁移/nerual_style_change-master/imagenet-vgg-19.mat
+项目/22组_10种猴子细粒度分类和应用/22组_10种猴子细粒度分类和应用/resnet_monkey.h5
+项目/4组_基于MTCNN与FaceNet的人脸识别/4组_基于MTCNN与FaceNet的人脸识别/src/models/20180402-114759/model-20180402-114759.ckpt-275.data-00000-of-00001
+项目/16组_基于YOLO_V3的目标识别系统/YOLO3/cfg/yolov3.weights
+项目/18组_利用Python实现神经网络/pnnp/data/train_60000.csv
+项目/19组_猫狗图像爬取及识别分类/图像识别/dog&cat/dogvscat/bestModelVgg.hdf5

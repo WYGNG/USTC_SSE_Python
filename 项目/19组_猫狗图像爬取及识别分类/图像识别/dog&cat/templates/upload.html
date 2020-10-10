@@ -1,0 +1,54 @@
+﻿<html>
+	<head>
+		<title>快来试试猫狗识别吧~</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="{{url_for('static',filename='assets/css/main.css')}}" />
+		<noscript><link rel="stylesheet" href="{{url_for('static',filename='assets/css/noscript.css')}}" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="content">
+							<div class="inner">
+								<h1>赶快上传你的小可爱！</h1>
+								<p>上传你的小可爱，让计算机判断它们是猫还是狗吧！</p>
+							</div>
+						</div>
+						<nav>
+							<ul>
+								<li><form action="/upload" enctype='multipart/form-data' method='POST'>
+        						<input type="file" name="file" style="margin-top:20px;"/>
+        						<input type="submit" value="上传" class="button-new" style="margin-top:15px;"/>
+    							</form></li>
+								<!--<li><a href="#elements">Elements</a></li>-->
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Main -->
+
+
+				<!-- Footer -->
+					<footer id="footer">
+						<p class="copyright">&copy; - 小可爱识别 Python结课作业 - </p>
+					</footer>
+
+			</div>
+
+		<!-- BG -->
+			<div id="bg"></div>
+
+		<!-- Scripts -->
+			<script src="{{url_for('static',filename='assets/js/jquery.min.js')}}"></script>
+			<script src="{{url_for('static',filename='assets/js/browser.min.js')}}"></script>
+			<script src="{{url_for('static',filename='assets/js/breakpoints.min.js')}}"></script>
+			<script src="{{url_for('static',filename='assets/js/util.js')}}"></script>
+			<script src="{{url_for('static',filename='assets/js/main.js')}}"></script>
+
+	</body>
+</html>

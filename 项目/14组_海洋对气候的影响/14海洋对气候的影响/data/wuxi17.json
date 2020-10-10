@@ -1,0 +1,42 @@
+{
+  "coord": {
+    "lon": 120.29,
+    "lat": 31.57
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 292.48,
+    "pressure": 1001,
+    "humidity": 48,
+    "temp_min": 290.93,
+    "temp_max": 294.82
+  },
+  "wind": {
+    "speed": 0.72,
+    "deg": 306
+  },
+  "rain": {},
+  "clouds": {
+    "all": 53
+  },
+  "dt": 1573030810,
+  "sys": {
+    "type": 3,
+    "id": 58179,
+    "country": "CN",
+    "sunrise": 1572992301,
+    "sunset": 1573031191
+  },
+  "timezone": 28800,
+  "id": 1790923,
+  "name": "Wuxi",
+  "cod": 200
+}
