@@ -1,0 +1,2 @@
+运行monkey_recongnition.py启动客户端
+测试图片在input目录下，可以单击Browse按钮选择图片，点击show result按钮弹出识别结果。
